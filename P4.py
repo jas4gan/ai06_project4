@@ -8,11 +8,6 @@ https://www.kaggle.com/competitions/data-science-bowl-2018/overview
 
 https://shrdc-my.sharepoint.com/:u:/g/personal/kong_kah_chun_shrdc_org_my/Eezac_jW3b9Fiazf0q3cDN4BEUIcOyzln9y95V7ER-orMg?e=qj3pZM
 """
-#1. Import packages
-from numba import cuda
-device = cuda.get_current_device()
-device.reset()
-
 #%%
 #1. Import packages
 
